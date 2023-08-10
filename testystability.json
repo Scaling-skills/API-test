@@ -1,0 +1,702 @@
+{
+	"info": {
+		"_postman_id": "958e6a69-b79d-4814-89a6-80eda7749978",
+		"name": "API TEST test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26268303"
+	},
+	"item": [
+		{
+			"name": "Wyszukiwanie Z0",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "www.pornhub.com",
+							"description": "clean pornhub",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie D0",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "www.google.com",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie Z1",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://pl.pornhub.com/video?page=10",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie D1",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://www.google.pl/search?q=Gardens&sxsrf=APwXEddgV4_CZ6QbUvSn2IAOp0I7wQBvSw:1680241980593&ei=PHUmZK_rI9LvkgXs7YRY&start=90&sa=N&ved=2ahUKEwiv-Y6TvYX-AhXSt6QKHew2AQsQ8tMDegQIBxAU&biw=983&bih=1144&dpr=1.1",
+							"description": "google searching",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie Z2",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://livehdcams.com/cam/peachxgirll/?AFNO=1-60000",
+							"description": "live porno",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie D2",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://www.google.pl/maps/place/Londyn,+Wielka+Brytania/@51.5283064,-0.3824539,10z/data=!3m1!4b1!4m6!3m5!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862!16zL20vMDRqcGw",
+							"description": "google london localization",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie Z3",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://pl.pornhub.com/model/freya-white",
+							"description": "profil użytkownika",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie D3",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://www.google.com/?hl=fr",
+							"description": "change google to french",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie Z4",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://forum.xnxx.com/forums/general-discussion.4/",
+							"description": "jakieś forum",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie D4",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+							"description": "youtoube specific video",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify?=",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": ""
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie Z5",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://www.google.pl/search?q=xxx&tbm=isch&ved=2ahUKEwjtoJTV0qP-AhUWuSoKHSNlCwAQ2-cCegQIABAA&oq=xxx&gs_lcp=CgNpbWcQAzoECCMQJzoICAAQgAQQsQM6BQgAEIAEOgcIABCKBRBDUKEKWLsSYJwTaABwAHgAgAFHiAGIApIBATSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=VEY2ZO2mF5byqgGjyi0&bih=1179&biw=2327#imgrc=kFIEDDJpy89s-M",
+							"description": "target link",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie D5",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://www.google.com/search?q=landscape%26tbm=isch",
+							"description": "google photos",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					],
+					"query": [
+						{
+							"key": "url",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie Z6",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://www.fuq.com/pl/rating?page=5",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Wyszukiwanie D6",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "url",
+							"value": "https://www.google.com/search?q=cat+photos%26tbm=isch%26tbo=u%26source=univ%26sa=X%26ved=0ahUKEwi9sJqg8MTPAhWFWRoKHQf1AgsQsAQIHQ%26biw=1366%26bih=662%26dpr=1",
+							"description": "google specific photos",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://betterline-service-dev-sabqwpq77a-ew.a.run.app/verify",
+					"protocol": "https",
+					"host": [
+						"betterline-service-dev-sabqwpq77a-ew",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"verify"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					"const url = 'https://hooks.slack.com/services/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';",
+					"",
+					"if (pm.response.code !== 200) {",
+					"  const status = `Status code: ${pm.response.code}`;",
+					"  const responseBody = `${pm.response.text()}`;",
+					"",
+					"  pm.sendRequest({",
+					"    url: url,",
+					"    method: 'POST',",
+					"    header: {",
+					"      'Content-Type': 'application/json'",
+					"    },",
+					"    body: {",
+					"      mode: 'raw',",
+					"      raw: JSON.stringify({",
+					"        attachments: [",
+					"          {",
+					"            color: \"#FF0000\",",
+					"            text: status",
+					"          },",
+					"          {",
+					"            text: responseBody",
+					"          }",
+					"        ]",
+					"      })",
+					"    }",
+					"  }, function (err, res) {",
+					"    if (err) {",
+					"      console.error('Błąd podczas wysyłania wiadomości na Slack:', err);",
+					"    } else {",
+					"      console.log('Wiadomość została wysłana na Slack.');",
+					"    }",
+					"  });",
+					"}",
+					"",
+					"pm.test('Status code is 200', function () {",
+					"  pm.expect(pm.response.code).to.equal(200);",
+					"});"
+				]
+			}
+		}
+	]
+}
