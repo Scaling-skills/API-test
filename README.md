@@ -1,1 +1,1 @@
-# test API + slack raport
+# test stability API + slack raport (for PARENTAL CONTROL app)
